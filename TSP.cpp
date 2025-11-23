@@ -1,3 +1,5 @@
+// This code is for Ubuntu // 
+
 #include <bits/stdc++.h>
 using namespace std;
 
