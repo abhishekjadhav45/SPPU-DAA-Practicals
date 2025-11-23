@@ -1,3 +1,6 @@
+/* This code is designed to run on Ubuntu*/
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
